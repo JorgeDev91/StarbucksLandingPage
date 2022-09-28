@@ -1,0 +1,31 @@
+
+.branchContainer h2{
+    color: #333;
+    font-size: 4em;
+    line-height: 1.4em;
+    font-weight: 500;
+}
+
+.branchContainer h2 span{
+    color: #017143;
+    font-size: 1.2em;
+    font-weight: 900;
+}
+
+.branchContainer p{
+    color: #333;
+}
+
+.branchContainer button{
+    background-color: #017143;
+    border-color: #017143;
+    color: #fff;
+    border-radius: 40px;
+    border-color: none;
+    padding: 5px 20px;
+    font-weight: 500;
+}
+
+.productImage{
+    max-width: 340px;
+}

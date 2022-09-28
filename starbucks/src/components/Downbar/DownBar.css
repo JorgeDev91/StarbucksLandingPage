@@ -1,0 +1,9 @@
+.thumb{
+    max-width: 50%;
+    cursor: pointer;
+    transition: 0.5s;
+}
+
+.thumb:hover{
+    transform: translateY(-15px);
+}
